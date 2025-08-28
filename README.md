@@ -43,8 +43,7 @@ Custom icons represent weather metrics for intuitive understanding:
 - 🔆 UV index  
 - 👁️ Visibility  
 - 🌅 Sunrise / Sunset  
-- 📍 Location markers  
-- 🕒 Daytime indicators  
+- 📍 Location markers    
 
 ### 🔹 Backgrounds  
 Contains clean and modern background designs used across different sections of the dashboard to enhance **visual appeal and readability**.  
