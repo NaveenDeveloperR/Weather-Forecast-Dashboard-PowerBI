@@ -1,6 +1,6 @@
 # Weather Forecast Power BI Dashboard  
 
-This Power BI dashboard provides a 5-day weather forecast (Aug 30 – Sep 3, 2025) for six Indian cities — Bengaluru, Chennai, Hyderabad, Mumbai, Noida, and Vellore — using real-time data from the OpenWeather API. It is built with Power Query for data extraction and transformation, DAX for calculations and measures, data modeling for structuring relationships, and visualization design for creating interactive and user-friendly dashboards. The project transforms raw API data into an engaging and interactive weather story, offering clear insights into temperature trends, humidity, rainfall, wind speed, wind direction, UV index, visibility, as well as sunrise and sunset timings.
+This Power BI dashboard delivers real-time 5-day weather forecasts for six Indian cities using data from the OpenWeather API. It transforms raw API data into an interactive visualization that makes weather insights accessible and engaging.
 
 ---
 
@@ -11,8 +11,7 @@ https://github.com/user-attachments/assets/a23ab244-3c22-403a-9fde-db03026f03a5
 
 ## 📊 Project Overview
 
-This dashboard provides a **detailed view of weather conditions and forecasts** with city-wise insights.  
-It visualizes temperature trends, humidity levels, rainfall patterns, wind conditions, UV index, and more — helping users understand **weather patterns and climate conditions effectively**.
+The dashboard covers Bengaluru, Chennai, Hyderabad, Mumbai, Noida, and Vellore, with forecasts spanning Aug 30 – Sep 3, 2025. It provides detailed analysis of temperature trends, humidity, rainfall, wind speed and direction, UV index, visibility, and sunrise/sunset timings. Built using Power Query, DAX, and data modeling, the project highlights how Power BI can convert live weather data into an informative storytelling dashboard.
 
 ---
 
