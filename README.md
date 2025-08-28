@@ -1,21 +1,6 @@
 # Weather Forecast Power BI Dashboard  
 
-- 📍 Covers **6 Indian cities** — Bengaluru, Chennai, Hyderabad, Mumbai, Noida, and Vellore  
-- 📅 Predicts the **next 5 days of weather** (Aug 30 – Sep 3, 2025)  
-- 🌐 Powered by the **OpenWeather API** for real-time forecast data  
-- ⚙️ Built with:  
-  - **Power Query** (data extraction & transformation)  
-  - **DAX** (data calculations & measures)  
-  - **Data Modeling** (relationships & structure)  
-  - **Visualization Design** (interactive, user-friendly dashboards)  
-- 📊 Converts **raw API data** into an **interactive weather story**  
-- ☁️ Provides **clear insights** into:  
-  - Temperature trends  
-  - Humidity & rainfall  
-  - Wind speed & direction  
-  - UV index & visibility  
-  - Sunrise & sunset timings  
- 
+This Power BI dashboard provides a 5-day weather forecast (Aug 30 – Sep 3, 2025) for six Indian cities — Bengaluru, Chennai, Hyderabad, Mumbai, Noida, and Vellore — using real-time data from the OpenWeather API. It is built with Power Query for data extraction and transformation, DAX for calculations and measures, data modeling for structuring relationships, and visualization design for creating interactive and user-friendly dashboards. The project transforms raw API data into an engaging and interactive weather story, offering clear insights into temperature trends, humidity, rainfall, wind speed, wind direction, UV index, visibility, as well as sunrise and sunset timings.
 
 ---
 
@@ -36,10 +21,13 @@ It visualizes temperature trends, humidity levels, rainfall patterns, wind condi
 ```
 
 Weather Forecast PowerBI/
-├── Backgrounds/            # Custom background images for dashboard
-├── Icons/                  # Weather-related icons for visualizations
-├── Weather Report.pbix     # Main Power BI dashboard file
-└── Weather Report.pdf      # Exported PDF version of the dashboard
+├── Backgrounds/              # Custom background images for dashboard
+├── Icons/                    # Weather-related icons for visualizations
+├── Video/                    # Dashboard walkthrough video
+│   └── Weather Dashboard.mp4
+├── Weather Report.pbix       # Main Power BI dashboard file
+└── Weather Report.pdf        # Exported PDF version of the dashboard
+
 
 ```
 
@@ -107,6 +95,3 @@ This dashboard can be used for:
 - **Climate pattern analysis**  
 - Educational & research purposes  
 - Environmental tracking & decision-making  
-
-
-Would you like me to also **shorten this into a LinkedIn-friendly summary** (like a mini README for social sharing) so you can directly post it with your GitHub repo link?
