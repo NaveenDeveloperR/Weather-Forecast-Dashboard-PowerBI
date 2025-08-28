@@ -1,6 +1,6 @@
 # Weather Forecast Power BI Dashboard  
 
-This Power BI dashboard delivers real-time 5-day weather forecasts for six Indian cities using data from the OpenWeather API. It transforms raw API data into an interactive visualization that makes weather insights accessible and engaging.
+This Power BI dashboard delivers real-time 5-day weather forecasts for six Indian cities using data from the Weather API. It transforms raw API data into an interactive visualization that makes weather insights accessible and engaging.
 
 ---
 
