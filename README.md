@@ -1,7 +1,6 @@
 # Weather Report PowerBI Dashboard
 
-A Power BI dashboard predicting the next 5 days of Bengaluru’s weather using the OpenWeather API.
-Built with Power Query, DAX, Data Modeling, and Visualization Design to turn raw API data into an interactive weather story.
+A Power BI dashboard predicting the next 5 days of Bengaluru’s weather(Aug 30 – Sep 3, 2025) using the OpenWeather API.Built with Power Query, DAX, Data Modeling, and Visualization Design to turn raw API data into an interactive weather story.
 
 ## Demo
 [![Weather Report Dashboard Demo](https://img.shields.io/badge/Watch%20Demo-Video-red)](INSERT_YOUR_VIDEO_LINK_HERE)
